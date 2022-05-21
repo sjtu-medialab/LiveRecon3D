@@ -1,7 +1,5 @@
 # LiveRecon3D
 
-[TOC]
-
 Public repository for our paper: "***RGBD-based Real-time 3D Reconstruction System: Architecture Design and Implementation***". 
 
 ## System Design
