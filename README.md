@@ -16,7 +16,7 @@ To evaluate the results of our system, we introduce a multi-view dataset, captur
 
 The environment  and one typical frame of our dataset  are  as shown, and the whole dataset will be released soon. 
 
-<img src="https://notes.sjtu.edu.cn/uploads/upload_464545f9fd56b569563e3825891e9119.png" style="zoom:80%;" />
+<img src="https://notes.sjtu.edu.cn/uploads/upload_46dc675bd2989c522428598b32afc98a.png" style="zoom:80%;" />
 
 The details of the dataset can be seen from table below.
 
@@ -32,7 +32,7 @@ The details of the dataset can be seen from table below.
 
 The result can be seen from the video below. The foreground dynamic objects is reconstructed in real-time frame rate of 30 FPS, each frame takes about 65 ms in total. And the background can be replaced by any 3D models, virtual scene rendered by the rendering engine or reconstructed model from the real scene.
 
-[![YouTube link](https://notes.sjtu.edu.cn/uploads/upload_cdea4d0b0c89b0d2e771e99fad21004a.png)](https://youtu.be/q9Vf05e0QHc)
+[![YouTube link](https://notes.sjtu.edu.cn/uploads/upload_cdea4d0b0c89b0d2e771e99fad21004a.png)](https://github.com/sjtu-medialab/LiveRecon3D/blob/main/videos/LiveRecon3D_demo.mp4)
 
 ### Other datasets
 
