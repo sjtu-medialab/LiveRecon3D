@@ -16,7 +16,7 @@ To evaluate the results of our system, we introduce a multi-view dataset, captur
 
 The environment  and one typical frame of our dataset  are  as shown, and the whole dataset will be released soon. 
 
-<img src="https://notes.sjtu.edu.cn/uploads/upload_506c8c35a0a17cb91dde5074b9c3121a.png" style="zoom:80%;" />
+<img src="https://notes.sjtu.edu.cn/uploads/upload_df5800a4fdc3924e28b0f29361a7bc4a.png" style="zoom:80%;" />
 
 The details of the dataset can be seen from table below.
 
@@ -38,4 +38,4 @@ The result can be seen from the video below. The foreground dynamic objects is r
 
 We test our system on the dataset published in paper [A New Free Viewpoint RGB-D Video Dataset](https://github.com/sjtu-medialab/Free-Viewpoint-RGB-D-Video-Dataset). The reconstruction results is as follows:
 
-[![YouTube link](https://notes.sjtu.edu.cn/uploads/upload_a82dcd2c3751057853814a75288440d1.png)](https://youtu.be/JqFG8aSdpfw)
+[![YouTube link](https://notes.sjtu.edu.cn/uploads/upload_d9020cdcac7abe4c5771d6dd23391354.png)](https://youtu.be/JqFG8aSdpfw)
