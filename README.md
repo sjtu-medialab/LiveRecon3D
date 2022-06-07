@@ -32,7 +32,7 @@ The details of the dataset can be seen from table below.
 
 The result can be seen from the video below. The foreground dynamic objects is reconstructed in real-time frame rate of 30 FPS, each frame takes about 65 ms in total. And the background can be replaced by any 3D models, virtual scene rendered by the rendering engine or reconstructed model from the real scene.
 
-[![YouTube link](https://notes.sjtu.edu.cn/uploads/upload_cdea4d0b0c89b0d2e771e99fad21004a.png)](https://github.com/sjtu-medialab/LiveRecon3D/blob/main/videos/LiveRecon3D_demo.mp4)
+[![YouTube link](https://notes.sjtu.edu.cn/uploads/upload_cdea4d0b0c89b0d2e771e99fad21004a.png)](https://youtu.be/q9Vf05e0QHc)
 
 ### Other datasets
 
