@@ -16,15 +16,15 @@ To evaluate the results of our system, we introduce a multi-view dataset, captur
 
 The environment  and one typical frame of our dataset  are  as shown, and the whole dataset will be released soon. 
 
-<img src="https://notes.sjtu.edu.cn/uploads/upload_46dc675bd2989c522428598b32afc98a.png" style="zoom:80%;" />
+<img src="https://notes.sjtu.edu.cn/uploads/upload_506c8c35a0a17cb91dde5074b9c3121a.png" style="zoom:80%;" />
 
 The details of the dataset can be seen from table below.
 
-| Camera         | Kinect v2                             |
-| -------------- | ------------------------------------- |
-| **Num**        | **3**                                 |
+| Camera         |               Kinect v2               |
+| -------------- | :-----------------------------------: |
+| **Num**        |                 **3**                 |
 | **Resolution** | **color: 1920x1080 + Depth: 512x424** |
-| **Scenes**     | **6**                                 |
+| **Scenes**     |                 **6**                 |
 
 ## Reconstruction Results
 
@@ -32,10 +32,10 @@ The details of the dataset can be seen from table below.
 
 The result can be seen from the video below. The foreground dynamic objects is reconstructed in real-time frame rate of 30 FPS, each frame takes about 65 ms in total. And the background can be replaced by any 3D models, virtual scene rendered by the rendering engine or reconstructed model from the real scene.
 
-[![YouTube link](https://notes.sjtu.edu.cn/uploads/upload_cdea4d0b0c89b0d2e771e99fad21004a.png)](https://youtu.be/q9Vf05e0QHc)
+[![YouTube link](https://notes.sjtu.edu.cn/uploads/upload_e78b4d720095ca58a59366c70ea7243a.png)](https://youtu.be/q9Vf05e0QHc)
 
 ### Other datasets
 
 We test our system on the dataset published in paper [A New Free Viewpoint RGB-D Video Dataset](https://github.com/sjtu-medialab/Free-Viewpoint-RGB-D-Video-Dataset). The reconstruction results is as follows:
 
-[![YouTube link](https://notes.sjtu.edu.cn/uploads/upload_4953a316a5711b16495dedd92da85b95.png)](https://youtu.be/JqFG8aSdpfw)
+[![YouTube link](https://notes.sjtu.edu.cn/uploads/upload_a82dcd2c3751057853814a75288440d1.png)](https://youtu.be/JqFG8aSdpfw)
